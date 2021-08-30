@@ -17,7 +17,7 @@ use Mini\Core\Model;
 class Song extends Model
 {
     /**
-     * Get all songs from database
+     * Get all songs from databases
      */
     public function getAllSongs()
     {
