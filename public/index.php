@@ -14,7 +14,7 @@
  * Now MINI work with namespaces + composer's autoloader (PSR-4)
  *
  * @author Joao Vitor Dias <joaodias@noctus.org>
- *
+ *holaaa
  * For more info about namespaces plase @see http://php.net/manual/en/language.namespaces.importing.php
  */
 
